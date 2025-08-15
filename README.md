@@ -1,3 +1,3 @@
 # gx-thingamabob
 
-learning to develop for a dead console
+I'm learning to develop for a dead console
