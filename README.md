@@ -1,2 +1,3 @@
 # gx-thingamabob
-GX
+
+learning to develop for a dead console
