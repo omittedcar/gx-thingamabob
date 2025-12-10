@@ -1,0 +1,3 @@
+26 november 2025
+
+Fixed a segfault. Make sure to allocate your memory!

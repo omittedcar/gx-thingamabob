@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/devkitpro/libogc/include"
+            ],
+            "defines": [],
+            "compilerPath": "/opt/devkitpro/devkitPPC/bin/powerpc-eabi-gcc",
+            "intelliSenseMode": "gcc-x86"
+        }
+    ],
+    "version": 4
+}
